@@ -1,4 +1,4 @@
-Correctly predicted false positives with a 79% percision by applying XGboost for ensemble boosting classification.   
+Correctly predicted false positives with a 79% percision by applying XGboost ensemble boosting classification.   
 
 # Analysis
 
