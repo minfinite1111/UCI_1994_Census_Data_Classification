@@ -7,7 +7,7 @@ Correctly predicted false positives with a 79% percision by applying XGboost ens
 
 **Problem:** The task is to accurately predict if a person has an income greater than 50k or less than 50k. 
 
-We're given 15 features per person; using these features the model will predict an income as being greater than 50k or less than 50k. 
+We're given 14 features per person; using these features the model will predict an income as being greater than 50k or less than 50k. 
 
 * more than 50k is mapped to 1. 
 * less than 50k is mapped to 0.
