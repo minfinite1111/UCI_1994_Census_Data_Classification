@@ -14,7 +14,7 @@ We're given 14 features per person; using these features the model will predict 
 * true positive: income > 50k or 1 mapping
 * true negative: income < = 50k or 0 mapping
 
-*false positive* = prediction of income greater than 50k when its true value is less than 50k.
+*false positive* = prediction of income greater than 50k when the actual value is less than 50k.
 
 In this instance we want to reduce the number of false positives. Therefore, we use precision as our metric judging the accuracy of our trained ML model.
 
